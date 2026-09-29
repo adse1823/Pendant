@@ -1,0 +1,3 @@
+anthropic>=0.40.0
+pretty_midi>=0.2.10
+pytest>=8.0
