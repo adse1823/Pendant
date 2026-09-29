@@ -1,7 +1,7 @@
 # Project: Multi-agent music generation system
 
 ## Goal
-Build a multi-agent system where each agent handles one instrument and one agent composes. Output is a MIDI file. Agents are powered by Claude via the Anthropic Python SDK.
+Build a multi-agent system where each agent handles one instrument and one agent composes. Output is a MIDI file. 
 
 ## Working style
 - Do NOT build everything at once. Work one phase at a time and stop for my review after each phase.
